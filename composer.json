@@ -1,5 +1,5 @@
 {
-    "name": "marvelig/firebase-bundle",
+    "name": "kreait/firebase-bundle",
     "description": "Symfony Bundle for the Firebase Admin SDK",
     "keywords": ["firebase", "google", "sdk", "api", "database", "symfony", "bundle", "symfony-bundle"],
     "homepage": "https://github.com/kreait/firebase-bundle",
